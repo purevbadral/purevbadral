@@ -9,10 +9,10 @@ My name is Purevbadral but I prefer to be called "**Binbin** (빈빈, 彬彬)".
 I am a undergraduate student at Korea Advanced Institute of Science and Technology (KAIST) majoring in Industrial and Systems Engineering.
 
 🔍 **Academic Interests**:
-* Digital transformation
-* Automation
-* Digital twin
+* Automatization
 * Business studies
+* Digital transformation
+* Digital twin
 
 ## Background
 
@@ -25,14 +25,14 @@ However, I realized that my passion lies in the field of industry, where I can t
 ## 📚 Education
 * (Sep 2022–present)&nbsp;&nbsp;&nbsp;&nbsp;B.S. in [Industrial and Systems Engineering, KAIST](http://ise.kaist.ac.kr/), Daejeon, South Korea 
 
-* (Sep, 2010–Jun, 2022)&nbsp;&nbsp;&nbsp;&nbsp;Secondary Education, [School No.1 of Ulaanbaatar](https://school1.edu.mn), Mongolia.
+* (Sep, 2010–Jun, 2022)&nbsp;&nbsp;&nbsp;&nbsp;Secondary Education, [School No.1 of Ulaanbaatar](https://school1.edu.mn), Mongolia
 
-## Experience
+## 💼 Experience
 * (Jan 2022–Dec 2023)&nbsp;&nbsp;&nbsp;&nbsp;**Undergraduate Researcher**
     - The Han Lab under Prof. Sunkyu Han
     - Guided by Chungwoo Lee
     - Research focus: Manipulation of naturally occurring carboxylic acid to create novel derivatives
 
-## Awards and Honours
-* (2021)&nbsp;&nbsp;&nbsp;&nbsp;Bronze medal, International Biology Olympiad.
+## 🏆 Awards and Honours
+* (2021)&nbsp;&nbsp;&nbsp;&nbsp;Bronze medal, International Biology Olympiad
 * (2023)&nbsp;&nbsp;&nbsp;&nbsp;KAIST Q-Day Q (Creative Talent) Award
