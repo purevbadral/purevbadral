@@ -1,3 +1,8 @@
+<style>
+* {
+  font-family: Helvetica, Arial, sans-serif;
+}
+</style>
 # Welcome <br> Wilkommen <br> Тавтай морилогтун
 
 My name is Purevbadral but I prefer to be called "**Binbin** (빈빈, 彬彬)".
