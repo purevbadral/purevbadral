@@ -4,7 +4,7 @@
 
 </div>
 
-My name is Purevbadral but I prefer to be called "**Binbin** (빈빈, 彬彬)".
+My name is Purevbadral ([pʲʰurʲĕw̜bădrăɮ]) but I prefer to be called "**Binbin** (빈빈, 彬彬)".
 ## About Me
 I am a undergraduate student at Korea Advanced Institute of Science and Technology (KAIST) majoring in Industrial and Systems Engineering.
 
