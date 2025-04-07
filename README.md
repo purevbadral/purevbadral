@@ -1,6 +1,6 @@
 <div align="center">
 
-# Welcome <br> Wilkommen <br> Тавтай морилогтун
+# Welcome <br> Willkommen <br> Тавтай морилогтун
 
 </div>
 
